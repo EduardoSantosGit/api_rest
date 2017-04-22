@@ -1,7 +1,7 @@
 # api_rest
 Api rest em java para receber e retornar json chaveado
 
-JSON Examplo: 
+JSON Exemplo: 
 
 {
   "pagamento":
